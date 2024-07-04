@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.username {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.links {
+    margin-top: 20px;
+}
+
+.links a {
+    display: block;
+    font-size: 18px;
+    color: #0000EE;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
+.links a:hover {
+    text-decoration: underline;
+}
